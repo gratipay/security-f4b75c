@@ -1,2 +1,1 @@
-# security-f4b75c
-missing SPF Records for zetaweb.com
+# https://github.com/gratipay/security-f4b75c/issues/1
